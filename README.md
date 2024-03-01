@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0091a4&height=120&section=header"/>
 
 ## Hi, I'm Filipe Silva
-
 Currently I work with embedded GNU/Linux on routers, handling their operating system and softwares.
 
 #### Programming Languages
